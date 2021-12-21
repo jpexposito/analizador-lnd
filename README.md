@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Analizador LND
+# Analizador LND <img width="40px" src="img/duck.png">
 
 El __analizador lnd__ es un joven proyecto que tiene como objetivo ayudar a alumnos al desarrollo y corrección de tareas, de distintas asignaturas.
 
